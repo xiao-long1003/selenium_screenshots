@@ -1,0 +1,2 @@
+# selenium_screenshots
+selenium截取特定元素内的图片
